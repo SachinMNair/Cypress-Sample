@@ -1,0 +1,4 @@
+{
+    "downloadsFolder": "./cypress/downloads",
+    "pageLoadTimeout": 10000
+}

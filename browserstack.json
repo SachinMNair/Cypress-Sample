@@ -1,0 +1,29 @@
+{
+	"auth": {
+		"username": "",
+		"access_key": ""
+	},
+	"browsers": [{
+		"browser": "firefox",
+		"os": "OS X Catalina",
+		"versions": ["latest"]
+	}
+	],
+    "run_settings": {
+        "cypress_config_file": "./cypress.json",
+        "build_name":"Download File",
+        "cypress_version": "8",
+        "exclude": [],
+        "parallels": "1",
+        "npm_dependencies": {},
+        "package_config_options": {},
+        "headless": false
+    },
+    "connection_settings": {
+        "local": false,
+        "local_identifier": null,
+        "local_mode": null,
+        "local_config_file": null
+    },
+    "disable_usage_reporting": false
+}
